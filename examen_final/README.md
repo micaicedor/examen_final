@@ -75,7 +75,9 @@ Incluye filtros, separación de canales, operaciones morfológicas y la creació
     Dilatación
     
     Esto permite visualizar la secuencia de transformaciones.
+
     ![lince](python/gifs/lince.gif)
+
 
 
 ### Tecnologías utilizadas
